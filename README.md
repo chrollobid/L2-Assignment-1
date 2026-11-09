@@ -1,3 +1,5 @@
+# L2 Assignment 1: TypeScript & OOP
+
 The Apollo-Level2-Web-Dev/B8A1 repository is an assignment project from the Programming Hero Level-2 Web Development Course.   
 
 
@@ -13,3 +15,9 @@ Interfaces & Generics: Creating robust object contracts and writing reusable, ge
 Object-Oriented Programming (OOP): Implementing class inheritance along with visibility access modifiers (private, protected).   
 
 Asynchronous TypeScript: Handling asynchronous logic, Promises, and error management.
+
+
+
+## Blogs
+- [Type Alias vs Interface](./TypeAlias-Vs_Interface.md)
+- [Type Narrowing](./Type_Narrowing.md)
